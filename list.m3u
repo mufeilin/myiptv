@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="•港澳台",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
